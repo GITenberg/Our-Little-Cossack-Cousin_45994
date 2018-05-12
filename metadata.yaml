@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '43560'
     url: http://www.gutenberg.org/2009/agents/43560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45994#Our-Little-Cossack-Cousin
 gutenberg_issued: '2014-06-16'
 gutenberg_type: Text
 identifiers:
